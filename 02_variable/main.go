@@ -7,7 +7,10 @@ import "fmt"
 // 这是全局变量 类型可不写 根据值自动推断变量类型（类型推导）
 var testOne string = "哈哈哈"
 
-// 如果变量没有赋值 int类型默认值为0 string类型默认值为“”
+// 如果变量没有赋值
+// int float类型默认值为0
+// string类型默认值为“”
+// bool类型默认为false
 var num int
 
 // 多个变量声明方式
