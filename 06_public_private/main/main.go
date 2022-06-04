@@ -1,3 +1,5 @@
+// 公有变量和私有变量介绍
+
 package main
 
 import (
